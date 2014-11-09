@@ -8,7 +8,7 @@
 train_path = '../dataset/cifar-10-batches-mat/data_batch_1.mat';
 test_path = '../dataset/cifar-10-batches-mat/test_batch.mat';
 
-num_train_per_cat = 3; 
+num_train_per_cat = 8; 
 %Total number of test to be done,test_batch is already randomized so we are not randomizing 
 num_test = 10;
 

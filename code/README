@@ -6,7 +6,7 @@ How to run code:
 
 	1. Main script is in main.m
 	2. Set test and train data path.
-	3. All the parameter have been set such that whole pipeline of code can run within 30-35 minutes and not for optimal performance.
+	3. All the parameter have been set such that whole pipeline of code can run within 20-25 minutes and not for optimal performance.
 	4. Some parts have used parallel for loops,use matlabpool to 
 Libraries used:
 	1. For calculating SIFT features I have used vl_feat library,add it to path before running main.m
