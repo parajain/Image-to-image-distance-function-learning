@@ -1,4 +1,3 @@
-Parag Jain , CS13M1008
 PAPER : Learning Globally-Consistent Local Distance Functions for Shape-Based Image Retrieval and Classification
 ================================================================================================================
 
@@ -17,6 +16,4 @@ Dataset:
 	I have used cifar-10 dataset.
 	link : http://www.cs.toronto.edu/~kriz/cifar.html
 	Download matlab version and update the path in the main.m file.
-
-Accuracy : With training set of 8 image per category accuracy of 31% was achieved.
-																																																								
+	
